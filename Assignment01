@@ -1,0 +1,34 @@
+<html>
+
+   <head>
+      <title>Assignment 1/title>
+   </head>
+	
+   <body>
+      <h1>My nanme is Kuroko Li</h1>
+      <p>Originally from New York and am currently working in Hong Kong, I do not have a major 
+      My coding background is at a very beginner level, having learned HTML and Javascript back 
+      at college many years ago. I did remember taking courses in C++ and Java back in the days,
+      but have no memory of these at all since I have not been using them. 
+      of </p>
+      
+      <p>One of my favourite places: </p>
+      <img src = "/html/images/Daikakuji.jpy" alt = "Daikakuji Temple" />
+      
+      <p>My favourite restaurant</p>
+      <a href = "https://ushiwakamaru.nyc/">Tutorials Point</a>
+      
+      <p>Please subscribe to my newlstter by filling in the form below:</p>
+      <form >
+         First name: <input type = "text" name = "first_name" />
+         <br>
+         Last name: <input type = "text" name = "last_name" />
+         <br>
+         Email: <input type = "text" name = "email" />
+         <br>
+         <input type = "checkbox" name = "permission" value = "on"> Please check to give permission to be added to the mailing list.
+      </form>
+      
+   </body>
+	
+</html>
